@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pyc
+
+# C++ build files
+*.exe
+*.out
+*.o
+*.so
+
+# System
+.DS_Store
+.idea/
+.vscode/
+
+# Data files (large)
+thread_data.csv
+thread_predictor.pkl
+
+# Executables
+scheduler
+hybrid_sync
