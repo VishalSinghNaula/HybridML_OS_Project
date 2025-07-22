@@ -26,10 +26,15 @@ python gui.py
 g++ main.cpp -o scheduler -pthread -std=c++17
 ./scheduler
 
-Tech Stack 🛠️
-Component	        Technologies Used
-Machine Learning	scikit-learn, joblib
-Backend	          C++17 (Multithreading, Sockets)
-Frontend	        Python Tkinter
-Communication	    TCP/UDP Sockets
+# Tech Stack 
+
+Component	        -  Technologies Used
+
+Machine Learning	 -  scikit-learn, joblib
+
+Backend	          -  C++17 (Multithreading, Sockets)
+
+Frontend	         -  Python Tkinter
+
+Communication	    -  TCP/UDP Sockets
 
